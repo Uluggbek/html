@@ -1,0 +1,19 @@
+body {
+  background-color: blueviolet;
+  img {
+    margin: 101%;
+  }
+  a {
+    text-align: center;
+  }
+}
+h1 {
+  font-family: Arial;
+  margin: 40px;
+}
+p {
+  font-size: 100%;
+  border: 4px solid lightblue;
+  padding: 40px;
+  margin: 40px;
+}
