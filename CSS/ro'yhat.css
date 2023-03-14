@@ -1,9 +1,8 @@
 body {
-  background-color: rgb(75, 80, 31);
+  background-color: rgb(216, 223, 160);
 }
 ol,
 ul {
-  border: 5px solid forestgreen;
   list-style: lower-latin;
 }
 li {
