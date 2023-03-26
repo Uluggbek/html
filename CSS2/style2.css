@@ -1,0 +1,11 @@
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: aqua;
+  border: 2px solid lightblue;
+}
+p {
+  color: aquamarine;
+}
